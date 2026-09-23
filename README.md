@@ -34,7 +34,7 @@ DevOps       ██████████░░░░░░░░░░░   5
 
 ### 📌 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
