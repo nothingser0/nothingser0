@@ -21,10 +21,10 @@
 
 ## Featured Projects
 
-| | | |
-|---|---|---|
-| [**agentic-project-lifecycle**](https://github.com/nothingser0/agentic-project-lifecycle)<br>AI agent framework for SDLC automation | [**pokemon-monitor**](https://github.com/nothingser0/pokemon-monitor)<br>Pokemon GO coordinate tracker | [**lokerscraper-surabaya**](https://github.com/nothingser0/lokerscraper-surabaya)<br>Job board scraper for Surabaya |
-| [**docs-ai**](https://github.com/nothingser0/docs-ai)<br>AI-powered documentation tool | [**realtime-collab-app**](https://github.com/nothingser0/realtime-collab-app)<br>🚧 Whiteboard + Kanban (WIP) | [**filmtv_clustering**](https://github.com/nothingser0/filmtv_clustering)<br>🚧 Movie recommendation (WIP) |
+| | |
+|---|---|
+| [**agentic-project-lifecycle**](https://github.com/nothingser0/agentic-project-lifecycle)<br>AI agent framework for SDLC automation | [**pokemon-monitor**](https://github.com/nothingser0/pokemon-monitor)<br>Pokemon GO coordinate tracker |
+| [**lokerscraper-surabaya**](https://github.com/nothingser0/lokerscraper-surabaya)<br>Job board scraper for Surabaya | [**realtime-collab-app**](https://github.com/nothingser0/realtime-collab-app)<br>🚧 Whiteboard + Kanban (WIP) |
 
 ---
 
