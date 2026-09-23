@@ -45,6 +45,38 @@ DevOps       ██████████░░░░░░░░░░░   5
 
 ---
 
+
+
+---
+
+### 🎯 Currently Working On
+
+Building a **real-time collaboration platform** with whiteboard + kanban features  
+`Next.js` `Supabase` `TypeScript` `Fabric.js`
+
+---
+
+### 🏆 Achievements
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=nothingser0&theme=darkhub&no-frame=true&row=1&column=6)
+
+---
+
+### 💬 Connect
+
+[![Discord](https://img.shields.io/badge/-zeenn-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/551319736051433502)
+[![X](https://img.shields.io/badge/-@nothingser0-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nothingser0)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zeenn@portfolio.dev)
+
+---
+
+### ⚡ Quick Facts
+
+- 🔭 Currently unemployed, building portfolio projects
+- 🌱 Learning real-time architectures & AI agent workflows
+- 💬 Ask me about Next.js, Supabase, Python automation
+- ⚡ Fun fact: Prefer coding at night
+
 ### 📊 GitHub Stats
 
 <p align="center">
