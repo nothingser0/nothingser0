@@ -34,7 +34,7 @@ DevOps       ██████████░░░░░░░░░░░   5
 
 ### 📌 Featured Projects
 
-<table width="100%">
+<table width="100%" style="table-layout: fixed; width: 100%; margin: 0; border-collapse: collapse;">
 <tr>
 <td width="50%" valign="top">
 
