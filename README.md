@@ -34,21 +34,14 @@ DevOps       ██████████░░░░░░░░░░░   5
 
 ### 📌 Featured Projects
 
-#### 🔄 [Agentic Project Lifecycle](https://github.com/nothingser0/agentic-project-lifecycle)
-Production SDLC framework for AI agents  
-`SDLC` `AI` `Automation`
+<div align="center">
 
-#### 🎮 [Pokemon Monitor](https://github.com/nothingser0/pokemon-monitor)
-Real-time Pokemon GO coordinate tracker  
-`Python` `Monitoring` `Automation`
+| | |
+|:---:|:---:|
+| <h3>🔄 Agentic Project Lifecycle</h3><br>Production SDLC framework for AI agents<br>`SDLC` `AI` `Automation`<br>[→ View Repo](https://github.com/nothingser0/agentic-project-lifecycle) | <h3>🎮 Pokemon Monitor</h3><br>Real-time Pokemon GO coordinate tracker<br>`Python` `Monitoring` `Automation`<br>[→ View Repo](https://github.com/nothingser0/pokemon-monitor) |
+| <h3>💼 Loker Scraper Surabaya</h3><br>Job scraper automation for Surabaya<br>`Python` `Scraping` `Data`<br>[→ View Repo](https://github.com/nothingser0/lokerscraper-surabaya) | <h3>🎯 Real-time Collab Platform</h3><br>Whiteboard + Kanban platform<br>`Next.js` `Supabase` `Real-time`<br>_Work in progress_ |
 
-#### 💼 [Loker Scraper Surabaya](https://github.com/nothingser0/lokerscraper-surabaya)
-Job scraper automation for Surabaya  
-`Python` `Scraping` `Data`
-
-#### 🎯 Real-time Collab Platform _(Work in progress)_
-Whiteboard + Kanban with Next.js & Supabase  
-`Next.js` `Supabase` `Real-time`
+</div>
 
 ---
 
