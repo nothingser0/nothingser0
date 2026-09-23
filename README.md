@@ -38,8 +38,8 @@ DevOps       ██████████░░░░░░░░░░░   5
 
 | | |
 |:---:|:---:|
-| <h3>🔄 Agentic Project Lifecycle</h3>Production SDLC framework for AI agents<br>`SDLC` `AI` `Automation`<br>[→ View Repo](https://github.com/nothingser0/agentic-project-lifecycle) | <h3>🎮 Pokemon Monitor</h3>Real-time Pokemon GO coordinate tracker<br>`Python` `Monitoring` `Automation`<br>[→ View Repo](https://github.com/nothingser0/pokemon-monitor) |
-| <h3>💼 Loker Scraper Surabaya</h3>Job scraper automation for Surabaya<br>`Python` `Scraping` `Data`<br>[→ View Repo](https://github.com/nothingser0/lokerscraper-surabaya) | <h3>🎯 Real-time Collab Platform</h3>Whiteboard + Kanban platform<br>`Next.js` `Supabase` `Real-time`<br>_Work in progress_ |
+| <h3>🔄 Agentic Project Lifecycle</h3>Production SDLC framework for AI agents<br>`SDLC` `AI` `Automation`<br><br>[→ View Repo](https://github.com/nothingser0/agentic-project-lifecycle) | <h3>🎮 Pokemon Monitor</h3>Real-time Pokemon GO coordinate tracker<br>`Python` `Monitoring` `Automation`<br><br>[→ View Repo](https://github.com/nothingser0/pokemon-monitor) |
+| <h3>💼 Loker Scraper Surabaya</h3>Job scraper automation for Surabaya<br>`Python` `Scraping` `Data`<br><br>[→ View Repo](https://github.com/nothingser0/lokerscraper-surabaya) | <h3>🎯 Real-time Collab Platform</h3>Whiteboard + Kanban platform<br>`Next.js` `Supabase` `Real-time`<br><br>_Work in progress_ |
 
 </div>
 
