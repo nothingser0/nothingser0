@@ -45,48 +45,11 @@ DevOps       ██████████░░░░░░░░░░░   5
 
 ---
 
-
-
----
-
-### 🎯 Currently Working On
-
-Building a **real-time collaboration platform** with whiteboard + kanban features  
-`Next.js` `Supabase` `TypeScript` `Fabric.js`
-
----
-
-### 🏆 Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=nothingser0&theme=darkhub&no-frame=true&row=1&column=6)
-
----
-
 ### 💬 Connect
 
 [![Discord](https://img.shields.io/badge/-zeenn-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/551319736051433502)
 [![X](https://img.shields.io/badge/-@nothingser0-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nothingser0)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zeenn@portfolio.dev)
-
----
-
-### ⚡ Quick Facts
-
-- 🔭 Currently unemployed, building portfolio projects
-- 🌱 Learning real-time architectures & AI agent workflows
-- 💬 Ask me about Next.js, Supabase, Python automation
-- ⚡ Fun fact: Prefer coding at night
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nothingser0&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nothingser0/nothingser0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 
