@@ -36,7 +36,7 @@ DevOps       ██████████░░░░░░░░░░░   5
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🔄 Agentic Project Lifecycle**  
 Production SDLC framework for AI agents  
@@ -44,7 +44,7 @@ Production SDLC framework for AI agents
 [→ View Repo](https://github.com/nothingser0/agentic-project-lifecycle)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🎮 Pokemon Monitor**  
 Real-time Pokemon GO coordinate tracker  
@@ -54,7 +54,7 @@ Real-time Pokemon GO coordinate tracker
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **💼 Loker Scraper Surabaya**  
 Job scraper automation for Surabaya  
@@ -62,10 +62,10 @@ Job scraper automation for Surabaya
 [→ View Repo](https://github.com/nothingser0/lokerscraper-surabaya)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🎯 Real-time Collab Platform**  
-Whiteboard + Kanban with Next.js & Supabase  
+Whiteboard + Kanban platform  
 `Next.js` `Supabase` `Real-time`  
 _Work in progress_
 
@@ -77,12 +77,13 @@ _Work in progress_
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nothingser0&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nothingser0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingser0&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nothingser0&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Activity Graph" />
+</p>
 
 <!-- Snake Animation -->
 <div align="center">
