@@ -81,10 +81,6 @@ _Work in progress_
   <img src="https://streak-stats.demolab.com?user=nothingser0&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingser0&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</p>
-
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/nothingser0/nothingser0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
