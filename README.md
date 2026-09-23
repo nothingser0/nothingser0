@@ -4,16 +4,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nothingser0&color=blueviolet&style=flat-square)
 
-### Stack
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Connect
 
 [![Discord](https://img.shields.io/badge/-zeenn-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/551319736051433502)
 [![X](https://img.shields.io/badge/-@nothingser0-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nothingser0)
