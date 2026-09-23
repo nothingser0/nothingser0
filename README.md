@@ -25,8 +25,8 @@
 
 | | |
 |---|---|
-| **Agentic Project Lifecycle**<br><br>Full AI agent framework for managing software development lifecycle. Automates task planning, code generation, testing, and deployment workflows using autonomous agents.<br><br>[Visit Repo →](https://github.com/nothingser0/agentic-project-lifecycle) | **Pokemon Monitor**<br><br>Real-time Pokemon GO coordinate tracker and notification system. Monitors spawn locations, filters by IV/CP, and sends alerts via Discord webhooks.<br><br>[Visit Repo →](https://github.com/nothingser0/pokemon-monitor) |
-| **Loker Scraper Surabaya**<br><br>Automated job board scraper specifically for Surabaya region. Aggregates listings from multiple sources, filters by keywords, and stores structured data for analysis.<br><br>[Visit Repo →](https://github.com/nothingser0/lokerscraper-surabaya) | **Real-time Collab Platform**<br><br>Full-stack collaborative workspace with real-time whiteboard (Fabric.js canvas) and Kanban board. Auth: OAuth (GitHub/Google), email+password (SMTP), anonymous guests. Built with Next.js 15, TypeScript, Supabase realtime, Drizzle ORM.<br><br>In Progress |
+| **Agentic Project Lifecycle**<br><br>AI agent framework for automating SDLC workflows. Handles task planning, code generation, testing, and deployment.<br><br>[Visit Repo →](https://github.com/nothingser0/agentic-project-lifecycle) | **Pokemon Monitor**<br><br>Real-time Pokemon GO tracker with IV/CP filters and Discord notifications.<br><br>[Visit Repo →](https://github.com/nothingser0/pokemon-monitor) |
+| **Loker Scraper Surabaya**<br><br>Job board scraper for Surabaya. Aggregates listings from multiple sources with keyword filtering.<br><br>[Visit Repo →](https://github.com/nothingser0/lokerscraper-surabaya) | **KontrakKu**<br><br>Self-hosted compliance document auto-filler for Indonesia. PKWT, NDA templates with e-signature and encrypted vault.<br><br>In Progress |
 
 </div>
 
