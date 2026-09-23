@@ -11,6 +11,12 @@
 
 ### 🛠️ Tech Stack
 
+```text
+Frontend     ███████████████████░░   85%
+Backend      ████████████████░░░░░   75%
+DevOps       ██████████░░░░░░░░░░░   50%
+```
+
 **Languages & Tools**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -28,37 +34,60 @@
 
 ### 📌 Featured Projects
 
-#### 🔄 [Agentic Project Lifecycle](https://github.com/nothingser0/agentic-project-lifecycle)
-Production SDLC framework for AI coding agents  
-`SDLC` `AI` `Automation`
+<table>
+<tr>
+<td width="50%">
 
-#### 🎮 [Pokemon Monitor](https://github.com/nothingser0/pokemon-monitor)
+**🔄 Agentic Project Lifecycle**  
+Production SDLC framework for AI agents  
+`SDLC` `AI` `Automation`  
+[→ View Repo](https://github.com/nothingser0/agentic-project-lifecycle)
+
+</td>
+<td width="50%">
+
+**🎮 Pokemon Monitor**  
 Real-time Pokemon GO coordinate tracker  
-`Python` `Monitoring` `Automation`
+`Python` `Monitoring` `Automation`  
+[→ View Repo](https://github.com/nothingser0/pokemon-monitor)
 
-#### 💼 [Loker Scraper Surabaya](https://github.com/nothingser0/lokerscraper-surabaya)
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💼 Loker Scraper Surabaya**  
 Job scraper automation for Surabaya  
-`Python` `Scraping` `Data`
+`Python` `Scraping` `Data`  
+[→ View Repo](https://github.com/nothingser0/lokerscraper-surabaya)
 
-#### 🎯 Real-time Collab Platform _(WIP)_
+</td>
+<td width="50%">
+
+**🎯 Real-time Collab Platform**  
 Whiteboard + Kanban with Next.js & Supabase  
-`Next.js` `Supabase` `Real-time`
+`Next.js` `Supabase` `Real-time`  
+_Work in progress_
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nothingser0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingser0&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nothingser0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingser0&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nothingser0&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</p>
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nothingser0/nothingser0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
