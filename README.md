@@ -60,3 +60,18 @@ DevOps       ██████████░░░░░░░░░░░   5
 [![GitHub](https://img.shields.io/badge/-@nothingser0-181717?style=flat-square&logo=github)](https://github.com/nothingser0)
 
 </div>
+
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nothingser0&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nothingser0/nothingser0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
