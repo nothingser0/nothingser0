@@ -36,38 +36,54 @@ DevOps       ██████████░░░░░░░░░░░   5
 
 <table width="100%" style="table-layout: fixed; width: 100%; margin: 0; border-collapse: collapse;">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**🔄 Agentic Project Lifecycle**  
-Production SDLC framework for AI agents  
-`SDLC` `AI` `Automation`  
-[→ View Repo](https://github.com/nothingser0/agentic-project-lifecycle)
+**🔄 Agentic Lifecycle**  
+SDLC framework for AI agents  
+`SDLC` `AI`  
+[→ Repo](https://github.com/nothingser0/agentic-project-lifecycle)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **🎮 Pokemon Monitor**  
-Real-time Pokemon GO coordinate tracker  
-`Python` `Monitoring` `Automation`  
-[→ View Repo](https://github.com/nothingser0/pokemon-monitor)
+Pokemon GO tracker  
+`Python` `Automation`  
+[→ Repo](https://github.com/nothingser0/pokemon-monitor)
+
+</td>
+<td width="33%" valign="top">
+
+**💼 Loker Scraper**  
+Job scraper Surabaya  
+`Python` `Scraping`  
+[→ Repo](https://github.com/nothingser0/lokerscraper-surabaya)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**💼 Loker Scraper Surabaya**  
-Job scraper automation for Surabaya  
-`Python` `Scraping` `Data`  
-[→ View Repo](https://github.com/nothingser0/lokerscraper-surabaya)
+**🎯 Collab Platform**  
+Whiteboard + Kanban  
+`Next.js` `Supabase`  
+_Work in progress_
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**🎯 Real-time Collab Platform**  
-Whiteboard + Kanban platform  
-`Next.js` `Supabase` `Real-time`  
-_Work in progress_
+**📊 Tracking App**  
+CI3 tracking system  
+`PHP` `CodeIgniter`  
+[→ Repo](https://github.com/nothingser0/Tracking-App-CI3)
+
+</td>
+<td width="33%" valign="top">
+
+**✅ Todo List**  
+Simple todo app  
+`HTML` `CSS` `JS`  
+[→ Repo](https://github.com/nothingser0/Todo-List-Simple-HTML-CSS)
 
 </td>
 </tr>
