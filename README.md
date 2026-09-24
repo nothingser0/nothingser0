@@ -23,10 +23,11 @@
 
 <div align="center">
 
-| | | |
-|---|---|---|
-| **Loker Scraper Surabaya**<br><br>Job scraper for Surabaya with Python automation. Aggregates listings from multiple sources with keyword filtering.<br><br>[Visit Repo →](https://github.com/nothingser0/lokerscraper-surabaya) | **Airdrop Tools**<br><br>Scrapes 13+ platforms, AI-powered filtering, multi-agent evaluation, auto-organized in Google Sheets.<br><br>Private | **Multi-Accounts Content Pipeline**<br><br>Multi-account AI content pipeline for niche personas with auto topics and batch generation.<br><br>Private |
-| **Web3 Content Pipeline**<br><br>Automated content pipeline for Web3/Crypto niche with Surabaya-style voice.<br><br>Private | **Pokemon Monitor**<br><br>Pokemon GO coordinate monitor for tracking spawn locations with Python automation.<br><br>[Visit Repo →](https://github.com/nothingser0/pokemon-monitor) | **KontrakKu**<br><br>Self-hosted compliance document auto-filler for Indonesia. PKWT, NDA templates with e-signature and encrypted vault.<br><br>In Progress |
+| | |
+|---|---|
+| **Loker Scraper Surabaya**<br><br>Job scraper for Surabaya with Python automation. Aggregates listings from multiple sources with keyword filtering.<br><br>[Visit Repo →](https://github.com/nothingser0/lokerscraper-surabaya) | **Airdrop Tools**<br><br>Scrapes 13+ platforms, AI-powered filtering, multi-agent evaluation, auto-organized in Google Sheets.<br><br>Private |
+| **Multi-Accounts Content Pipeline**<br><br>Multi-account AI content pipeline for niche personas with auto topics and batch generation.<br><br>Private | **Web3 Content Pipeline**<br><br>Automated content pipeline for Web3/Crypto niche with Surabaya-style voice.<br><br>Private |
+| **Pokemon Monitor**<br><br>Pokemon GO coordinate monitor for tracking spawn locations with Python automation.<br><br>[Visit Repo →](https://github.com/nothingser0/pokemon-monitor) | **KontrakKu**<br><br>Self-hosted compliance document auto-filler for Indonesia. PKWT, NDA templates with e-signature and encrypted vault.<br><br>In Progress |
 
 </div>
 
