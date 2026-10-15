@@ -27,7 +27,7 @@
 |---|---|
 | **solo-project-lifecycle**<br><br>Complete SDLC framework: 14 modules, 170+ templates, 12 patterns, 5 case studies. MVP to production in weeks.<br><br>[Visit Repo →](https://github.com/nothingser0/solo-project-lifecycle) | **omp-config**<br><br>Personal OhMyPi (OMP) configuration with custom hooks, subagents, skills, and 15 MCP servers.<br><br>[Visit Repo →](https://github.com/nothingser0/omp-config) |
 | **web3-content-pipeline**<br><br>Automated Web3/Crypto content pipeline with AI-powered generation and Surabaya-style voice.<br><br>Private | **lokerscraper-surabaya**<br><br>Job scraper for Surabaya with Python automation. Aggregates listings from multiple sources with keyword filtering.<br><br>[Visit Repo →](https://github.com/nothingser0/lokerscraper-surabaya) |
-| **airdrop-tools**<br><br>Scrapes 13+ platforms, AI-powered filtering, multi-agent evaluation, auto-organized in Google Sheets.<br><br>Private | **TataBuku**<br><br>Bookkeeping web app for Indonesian small businesses. Daily transaction tracking, automated reports, PDF export for bank loans.<br><br>In Progress |
+| **airdrop-tools**<br><br>Scrapes 13+ platforms, AI-powered filtering, multi-agent evaluation, auto-organized in Google Sheets.<br><br>Private | **design-workspace**<br><br>AI-powered design workspace with 7 specialized agents for end-to-end creative workflow — ideation, branding, copywriting, social media, AI prompts, and design review.<br><br>Private |
 
 </div>
 
